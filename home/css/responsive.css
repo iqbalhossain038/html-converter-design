@@ -1,0 +1,122 @@
+@media only screen and (min-width:1400px) and (max-width:1800px){
+    /*Our Story Area*/
+    
+    .img_icon i {margin-left: 134px;}
+    
+    
+    
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+    /*Our Story Area*/
+    
+    .img_icon i {margin-left: 92px;}
+    
+    
+}
+
+
+
+
+@media only screen and (min-width:200px) and (max-width:1072px){
+    .d_hidden {display: none;}
+    .d_show a {font-size: 17px !important;}
+    .col-8.menuArea {width: 260px;padding-left: 50px;}
+    .subMenu.second {width: 500%;margin-left: -80%;}    
+    .col-8.menuArea ul {margin-left: 0%;}
+    
+    /*==========End Header Area============*/
+    
+    /*==========Start Mobile Area============*/
+    
+    .col-md-6.process_title {width: 100%;}
+    .col-md-6.process_title h4 {width: 60%;}
+    section#process_area {margin-top: -113px;}
+    .col-md-6.priceSingleBox {box-shadow: none;box-shadow: 0 1px 15px 8px rgb(75 65 78 / 6%);margin: auto;margin-top: 107px;}
+    .row.priceBox {width: 100%;}
+    .col-md-6.priceSingleBox:first-child {margin-right: 169px !important;}
+        
+    /*====== Desktop Area =========*/
+    
+    .col-md-6.process_title {width: 100%;}
+    .col-md-6.process_title h4 {width: 60%;}
+    section#process_area {margin-top: -113px;}
+    .col-md-6.priceSingleBox {box-shadow: none;box-shadow: 0 1px 15px 8px rgb(75 65 78 / 6%);margin: auto;margin-top: 107px;}
+    .row.priceBox {width: 100%;}
+    .col-md-6.priceSingleBox:first-child {margin-right: 169px !important;}
+    
+    
+    
+}
+
+@media only screen and (min-width:768px) and (max-width:991px){
+    /*Our Story Area*/
+    
+    .img_icon i {margin-left: 147px;}
+    
+    /*Privacy*/
+    
+    .col-md-3.priv_col {width: 48%;margin-bottom: 20px;}
+    
+     /*Price*/
+    
+    .col-md-4.price2col {width: 48%;margin-bottom: 30px;}
+    
+    
+    
+}
+
+
+@media only screen and (min-width:200px) and (max-width:767px){
+    
+    .desk_icon {display: none;}
+    .col-3.desk_menu {width: 244px;}
+    .col-1.logoArea a img {width: 100px;padding-top: 14px;}
+    .col-8.menuArea ul li a {padding: 12px 15px;}
+    .p_area a {padding: 13px 15px;}
+    .menu_icon i {padding: 11px 16px;}
+    .p_area a {padding: 14px 15px;}
+    .subMenu.second {width: 194%;height: 500px;overflow: scroll;}
+    .convert_PDF.change_right {margin-bottom: 30px;}
+    .row.language_foot {width: 220px;height: 500px;overflow: scroll;}
+    .col-md-3.col-sm-6.footer_align {margin-left: 20px;}
+    
+        /*==========End Header Area============*/
+    
+        /*==========Start Mobile Area============*/
+    
+    .col-md-6.process_title img {width: 80%;margin-top: 40px;float: none}
+    .col-md-6.process_title h4 {width: 100%;}
+    .col-md-6.priceSingleBox:first-child {margin-right: 78px !important;}
+    .title_d_foot {width: 100%;}
+    
+    /*====== SignUp and Login Area*/
+    
+    .fb_g a {padding: 1.5% 24%;line-height: 49px;}
+    
+    /*====== Desktop Area =========*/
+    
+    .col-md-6.process_title img {width: 80%;margin-top: 40px;float: none}
+    .col-md-6.process_title h4 {width: 100%;}
+    .col-md-6.priceSingleBox:first-child {margin-right: 78px !important;}
+    
+    /*========== Our Story Area ===========*/
+    
+    .img_icon i {margin-left: 237px;}
+    
+    /*========== Blog Area ===========*/
+    
+    .singleBoxCol {width: 100%;}
+    .singleBoxCol {height: 530px;}
+    
+    /*Privacy*/
+    
+    .col-md-3.priv_col {width: 100%;margin-bottom: 20px;}
+    
+    /*Price*/
+    
+    .ques_accr {margin: 70px 0;}
+    .col-md-4.price2col {width: 100%;margin-bottom: 20px;}
+    
+    
+    
+}
